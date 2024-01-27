@@ -1,5 +1,5 @@
 [
   "EnvironmentName=Test",
-  "SSHKeyName=github_chasetheblack",
+  "SSHKeyName=chasetheblackdot",
   "amiImageId=ami-09e67e426f25ce0d7"
 ]
